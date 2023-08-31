@@ -8,7 +8,7 @@
 ## 🔗 Links
 [Git hub repo link](https://github.com/manasa8910/netflix)
 
-[Hoisted link](https://manasa8910.github.io/iframes/)
+[Hoisted link](https://manasa8910.github.io/netflix/)
 
 
 ## HTML
